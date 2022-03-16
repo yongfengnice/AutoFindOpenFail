@@ -1,0 +1,2 @@
+# AutoFindOpenFail
+AutoFindOpenFail，Excel表格操作，自动查询统计常见异常数量
